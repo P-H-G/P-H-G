@@ -33,13 +33,13 @@
 
  <h3>🔥About Me🔥</h3>
   
-- 🔭 Desenvolvedor Full-Stack
+- 🔭 Web Developer
 
-- 🌱 Estudando Segurança da Informação e cursando na faculdade de física, concluí a faculdade de T.I
+- 🌱 Studying information security
 
-- 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
+- 💬 You can call to help with anything if i don't know, we learn togethher
 
-- 🌎 Apenas os que se esforçam e se dedicam, alcançam a glória e colocam os pés as margens do oceano do conhecimento
+- 🌎 Only those who strive and dedicate themselves, reach glory and put their feet on the shores of the ocean of knowledge
   
 
  
