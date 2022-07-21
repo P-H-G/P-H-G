@@ -1,8 +1,5 @@
-<marquee>Paulo Henrique </marquee>
-
-  
 <div align="center">
-  <h1 style="font-size:35px; font-weight:bold;">Paulo Henrique</h1>
+  <h1 style="font-size:35px; font-weight:bold;">💻 Hello, i'm Paulo Henrique 💻</h1>
   <a href="https://github.com/P-H-G">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P-H-G&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-H-G&layout=compact&langs_count=7&theme=dark"/>
