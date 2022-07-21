@@ -1,4 +1,4 @@
-### Hi there 👋
+<marquee>Paulo Henrique </marquee>
 
   
 <div align="center">
@@ -29,6 +29,18 @@
   <a href="https://www.linkedin.com/in/paulohenrique88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+ <h3>🔥About Me🔥</h3>
+  
+- 🔭 Desenvolvedor Full-Stack
+
+- 🌱 Estudando Segurança da Informação e cursando na faculdade de física, concluí a faculdade de T.I
+
+- 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
+
+- 🌎 Apenas os que se esforçam e se dedicam, alcançam a glória e colocam os pés as margens do oceano do conhecimento
+  
 
  
  
