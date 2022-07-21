@@ -8,7 +8,7 @@
 </div>
 
  
- <h2>💻 Tecnologias que eu Desenvolvo 💻</h2>
+ <h2>💻 Technologies i Master 💻</h2>
   
   <h3>🔥Front-end🔥</h3>
  <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
 </div>
 
 
- <h3>🔥Mihas Redes🔥</h3>
+ <h3>🔥My Networks🔥</h3>
   
 <div> 
   <a href="https://www.linkedin.com/in/paulohenrique88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
