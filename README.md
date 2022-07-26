@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
-   <h3>🔥Back-end🔥</h3>
+   <h3>🔥Front-end🔥</h3>
    
   <img align="center" alt="Rafa-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    
@@ -39,5 +39,5 @@
 
 - 🌎 Only those who strive and dedicate themselves, reach glory and put their feet on the shores of the ocean of knowledge
 
-(https://github.com/P-H-G/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+https://github.com/P-H-G/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg
  
