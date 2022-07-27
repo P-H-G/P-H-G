@@ -39,5 +39,5 @@
 
 - 🌎 Only those who strive and dedicate themselves, reach glory and put their feet on the shores of the ocean of knowledge
 
-https://github.com/P-H-G/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg
+
  
