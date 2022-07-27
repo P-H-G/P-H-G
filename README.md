@@ -39,6 +39,3 @@
 
 - 🌎 Only those who strive and dedicate themselves, reach glory and put their feet on the shores of the ocean of knowledge
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=P-H-G&repo=P-H-G&theme=react)]
-
- 
