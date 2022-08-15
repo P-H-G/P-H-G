@@ -40,3 +40,4 @@
 
 - 🌎 Only those who strive and dedicate themselves, reach glory and put their feet on the shores of the ocean of knowledge
 
+![Snake animation](https://github.com/flavyss/flavyss/blob/output/github-contribution-grid-snake.svg)
